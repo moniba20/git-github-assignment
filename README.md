@@ -1,4 +1,5 @@
 # git-github-assignment
+HIRA ASHRAF
 Advance programming's first assignment on Git and GitHub
 
 ## Creative Minds Portfolio
@@ -24,3 +25,27 @@ Use a live server extension to host the project or open `file.html` directly in 
   - Added modal windows for interactive experiences.
   - Enhanced user engagement with button interactions and JavaScript effects.
   - Optimized code and refined spacing for a polished finish.
+Here’s a short README file for your project:
+
+---
+
+# Git & GitHub Project for Version Control
+MONIBA
+
+This project demonstrates the use of Git and GitHub for version control, using HTML and CSS to create a basic user form.
+
+## Instructions to Run the Project
+- Open `myfile.html` in a web browser to view the form.
+- Edit `myscript.css` for styling updates.
+
+## Tools and Technologies Used
+- HTML
+- CSS
+- Git and GitHub for version control
+
+## Project Log
+- **Initial Commit:** Added basic HTML form structure (`myfile.html`).
+- **CSS Styling:** Created `myscript.css` for styling the form elements.
+- **Version Control:** Practiced branching, making commits, and creating pull requests on GitHub. 
+
+--- 
